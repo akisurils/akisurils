@@ -6,7 +6,8 @@ I'm always eager to learn more about information technology. I'm also willing to
 Thank you!
 
 ### Technology
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,flutter,typescript,csharp,aspnet&perline=10)](https://skillicons.dev)
+![](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,react,flutter,dotnet,typescript,cs,aspnet&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
 <!--
 **akisurils/akisurils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
