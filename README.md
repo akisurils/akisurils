@@ -7,7 +7,6 @@ Thank you!
 
 ### Technology
 ![](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,react,flutter,dotnet,typescript,cs,aspnet&perline=10)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
 <!--
 **akisurils/akisurils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
